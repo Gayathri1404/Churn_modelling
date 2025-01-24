@@ -4,15 +4,15 @@ Customer churn is a critical problem for subscription-based businesses. This pro
 
 # 🚀 Features
 End-to-end machine learning pipeline:
-Data Preprocessing
-Feature Engineering
-Model Training & Evaluation
-Best Model Selection
+* Data Preprocessing
+* Feature Engineering
+* Model Training & Evaluation
+* Best Model Selection
 
 # Comparison of three models:
-Logistic Regression
-Random Forest Classifier
-Gradient Boosting Classifier
+* Logistic Regression
+* Random Forest Classifier
+* Gradient Boosting Classifier
 
 # 🛠️ Technologies Used
 Programming Language: Python
