@@ -15,8 +15,8 @@ End-to-end machine learning pipeline:
 * Gradient Boosting Classifier
 
 # 🛠️ Technologies Used
-Programming Language: Python
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Joblib
+* Programming Language: Python
+* Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Joblib
 
 # 📂 Dataset
 The dataset used for this project contains information about customer demographics, geography, account balance, and other features that influence churn.
